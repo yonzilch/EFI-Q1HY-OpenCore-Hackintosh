@@ -17,8 +17,8 @@
 - CPU: 13900HK(ES)
 - GPU: Sapphire AMD RADEON RX 6750gre 12G
 - Audio: Realtek ALC897
-- Ethernet: Realtek RTL8111H PCle 1GbE Family Controller
-- Ethernet: Realtek RTL8125B(G) PCle 2.5GbE Family Controller
+- Ethernet: Realtek RTL8111 PCle 1GbE Family Controller
+- Ethernet: Realtek RTL8125 PCle 2.5GbE Family Controller
 - Wireless: Intel Wi-Fi AX210
 
 #### PS:
