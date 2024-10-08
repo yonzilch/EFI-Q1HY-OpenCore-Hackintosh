@@ -23,7 +23,7 @@
 
 #### PS:
 
-- All USB ports are customized well and could use USB3.0 at Boot.(Include the extended USB2.0 9PIN and Type-E port on the motherboard)
+- All USB ports are customized well and could use USB3.0 at Boot.(Also include the extended USB2.0 9PIN & USB3.0 19PIN & Type-E 19PIN on the motherboard)
 - Wireless Connection & Bluetouch works in Ventura and Sonoma.(Currently in Sequoia unable works, otherwise use OCLP to fix it)
 - Add NVMeFix.kext to make nvme disk works better.
 
