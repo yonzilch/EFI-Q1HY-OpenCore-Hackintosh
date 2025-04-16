@@ -19,15 +19,13 @@
 - Audio: Realtek ALC897
 - Ethernet: Realtek RTL8111 PCle 1GbE Family Controller
 - Ethernet: Realtek RTL8125 PCle 2.5GbE Family Controller
+- Wireless: Intel Wi-Fi AX210
+
 
 #### PS:
 
 - All USB ports are customized well and could use USB3.0 at Boot.(Also include the extended USB2.0 9PIN & USB3.0 19PIN & Type-E 19PIN on the motherboard)
-
-
-### Notice
-
-- Use suitable OpenCore Configurator build your SMBIOS after install.
+- Wireless Connection & Bluetouch works in Sonoma.(Currently in Sequoia unable works, otherwise use OCLP to fix it)
 
 
 ### Thanks
