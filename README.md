@@ -42,6 +42,11 @@ I have tested with two GPUs:
 - 
 - So the recommended macOS version is latest Sonoma.
 
+### Screenshot
+
+![yonos-2025-11-30](-img/Screenshot-2026-06-06-17:59:14.png)
+
+
 ### Acknowledgement
 
 - https://github.com/hackintosh-club/TianBang-13900H-ES-ITX-OpenCore
