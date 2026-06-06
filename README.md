@@ -47,6 +47,13 @@ I have tested with two GPUs:
 ![yonos-2025-11-30](-img/Screenshot-2026-06-06-17:59:14.png)
 
 
+### Disclaimer
+
+~~~
+THE EFI is provided "AS IS".
+Use at your own risk. No warranty.
+~~~
+
 ### Acknowledgement
 
 - https://github.com/hackintosh-club/TianBang-13900H-ES-ITX-OpenCore
